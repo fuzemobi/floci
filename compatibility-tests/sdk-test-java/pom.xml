@@ -21,7 +21,7 @@
         <jackson.version>2.18.8</jackson.version>
         <kafka.clients.version>3.9.2</kafka.clients.version>
         <netty.version>4.1.135.Final</netty.version>
-        <wire.version>6.3.0</wire.version>
+        <wire.version>6.4.5</wire.version>
     </properties>
 
     <dependencyManagement>
@@ -371,7 +371,7 @@
         <dependency>
             <groupId>org.mariadb.jdbc</groupId>
             <artifactId>mariadb-java-client</artifactId>
-            <version>3.3.2</version>
+            <version>3.3.7</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
